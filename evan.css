@@ -2,5 +2,6 @@ body {
 background-image: url("mybackground.jpg.jpg")
 }
 h1 {
-  color: #6ad345; text-align:center
+  color: #6ad345; 
+  text-align: center;
 }
