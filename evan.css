@@ -19,7 +19,7 @@ p {
   border-left: none;
 }
 table {
-  column-gap: 100px;
+  width: 100%;
   border-style: solid;
  border: 3px solid #6ad345;
 }
