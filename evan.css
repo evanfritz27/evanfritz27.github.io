@@ -4,5 +4,7 @@ background-image: url("mybackground.jpg.jpg")
 h1 {
   color: #6ad345; 
   text-align: center;
-  font-family: "Lucida Console";
+  monoscape {
+    font-family: "Lucida Console";
+  }
 }
