@@ -9,6 +9,6 @@ h1 {
 p {
   color: #4d54b1
     font-size: 25px;
-  font-family: "Lucida Console"
-  
+    font-family: "lucida Console";
+    text-align: center;  
 }
