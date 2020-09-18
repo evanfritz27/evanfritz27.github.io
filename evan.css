@@ -11,9 +11,11 @@ p {
     font-size: 25px;
     font-family: "Lucida Console";
     text-align: center;  
+  border-style: solid;
+  border-bottom: 3px solid #6ad345;
 }
 table {
   column-gap: 100px;
-  border-style: dashed;
- border: 3px dashed #6ad345;
+  border-style: solid;
+ border: 3px solid #6ad345;
 }
