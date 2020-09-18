@@ -14,6 +14,9 @@ p {
   line-height: 30px;
   border-style: solid;
   border-bottom: 3px solid #6ad345;
+  border-top: none;
+  border-right: none;
+  border-left: none;
 }
 table {
   column-gap: 100px;
